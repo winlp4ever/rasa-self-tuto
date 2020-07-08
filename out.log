@@ -1,0 +1,95 @@
+2020-07-07 19:50:19,754 [INFO ]  Starting Rasa server on http://localhost:5005
+2020-07-07 19:50:42,722 [INFO ]  Added 'SpacyNLP' to component cache. Key 'SpacyNLP-fr'.
+2020-07-07 23:51:13,107 [ERROR]  Exception occurred while handling uri: 'http://localhost:5005/model'
+Traceback (most recent call last):
+  File "/home/redlcamille/anaconda3/lib/python3.7/site-packages/sanic/app.py", line 940, in handle_request
+    handler, args, kwargs, uri, name = self.router.get(request)
+  File "/home/redlcamille/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 411, in get
+    return self._get(request.path, request.method, "")
+  File "/home/redlcamille/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 452, in _get
+    raise method_not_supported
+sanic.exceptions.MethodNotSupported: Method POST not allowed for URL /model
+2020-07-07 23:51:32,816 [ERROR]  Exception occurred while handling uri: 'http://localhost:5005/model/conversation'
+Traceback (most recent call last):
+  File "/home/redlcamille/anaconda3/lib/python3.7/site-packages/sanic/app.py", line 940, in handle_request
+    handler, args, kwargs, uri, name = self.router.get(request)
+  File "/home/redlcamille/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 411, in get
+    return self._get(request.path, request.method, "")
+  File "/home/redlcamille/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 475, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /model/conversation not found
+2020-07-07 23:52:26,417 [ERROR]  Exception occurred while handling uri: 'http://localhost:5005/conversations/default/respond'
+Traceback (most recent call last):
+  File "/home/redlcamille/anaconda3/lib/python3.7/site-packages/sanic/app.py", line 940, in handle_request
+    handler, args, kwargs, uri, name = self.router.get(request)
+  File "/home/redlcamille/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 411, in get
+    return self._get(request.path, request.method, "")
+  File "/home/redlcamille/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 475, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /conversations/default/respond not found
+2020-07-07 23:54:39,323 [ERROR]  Exception occurred while handling uri: 'http://localhost:5005/webhooks/rest/webhook'
+Traceback (most recent call last):
+  File "/home/redlcamille/anaconda3/lib/python3.7/site-packages/sanic/app.py", line 940, in handle_request
+    handler, args, kwargs, uri, name = self.router.get(request)
+  File "/home/redlcamille/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 411, in get
+    return self._get(request.path, request.method, "")
+  File "/home/redlcamille/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 452, in _get
+    raise method_not_supported
+sanic.exceptions.MethodNotSupported: Method GET not allowed for URL /webhooks/rest/webhook
+2020-07-07 23:55:11,429 [ERROR]  An exception occured while handling user message 'None'.
+Traceback (most recent call last):
+  File "/home/redlcamille/anaconda3/lib/python3.7/site-packages/rasa/core/channels/channel.py", line 487, in receive
+    metadata=metadata,
+  File "/home/redlcamille/anaconda3/lib/python3.7/site-packages/rasa/core/channels/channel.py", line 83, in handler
+    await app.agent.handle_message(*args, **kwargs)
+  File "/home/redlcamille/anaconda3/lib/python3.7/site-packages/rasa/core/agent.py", line 486, in handle_message
+    return await processor.handle_message(message)
+  File "/home/redlcamille/anaconda3/lib/python3.7/site-packages/rasa/core/processor.py", line 94, in handle_message
+    tracker = await self.log_message(message, should_save_tracker=False)
+  File "/home/redlcamille/anaconda3/lib/python3.7/site-packages/rasa/core/processor.py", line 252, in log_message
+    await self._handle_message_with_tracker(message, tracker)
+  File "/home/redlcamille/anaconda3/lib/python3.7/site-packages/rasa/core/processor.py", line 486, in _handle_message_with_tracker
+    parse_data = await self._parse_message(message, tracker)
+  File "/home/redlcamille/anaconda3/lib/python3.7/site-packages/rasa/core/processor.py", line 459, in _parse_message
+    if message.text.startswith(INTENT_MESSAGE_PREFIX):
+AttributeError: 'NoneType' object has no attribute 'startswith'
+2020-07-08 00:04:14,441 [ERROR]  Exception occurred while handling uri: 'http://localhost:5005/webhooks/rest/webhook'
+Traceback (most recent call last):
+  File "/home/redlcamille/anaconda3/lib/python3.7/site-packages/sanic/request.py", line 173, in load_json
+    self.parsed_json = loads(self.body)
+ValueError: Unexpected character in found when decoding object value
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/redlcamille/anaconda3/lib/python3.7/site-packages/sanic/app.py", line 976, in handle_request
+    response = await response
+  File "/home/redlcamille/anaconda3/lib/python3.7/site-packages/rasa/core/channels/channel.py", line 462, in receive
+    sender_id = await self._extract_sender(request)
+  File "/home/redlcamille/anaconda3/lib/python3.7/site-packages/rasa/core/channels/channel.py", line 412, in _extract_sender
+    return req.json.get("sender", None)
+  File "/home/redlcamille/anaconda3/lib/python3.7/site-packages/sanic/request.py", line 167, in json
+    self.load_json()
+  File "/home/redlcamille/anaconda3/lib/python3.7/site-packages/sanic/request.py", line 177, in load_json
+    raise InvalidUsage("Failed when parsing body as json")
+sanic.exceptions.InvalidUsage: Failed when parsing body as json
+2020-07-08 00:04:30,715 [ERROR]  Exception occurred while handling uri: 'http://localhost:5005/webhooks/rest/webhook'
+Traceback (most recent call last):
+  File "/home/redlcamille/anaconda3/lib/python3.7/site-packages/sanic/request.py", line 173, in load_json
+    self.parsed_json = loads(self.body)
+ValueError: Unexpected character in found when decoding object value
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/redlcamille/anaconda3/lib/python3.7/site-packages/sanic/app.py", line 976, in handle_request
+    response = await response
+  File "/home/redlcamille/anaconda3/lib/python3.7/site-packages/rasa/core/channels/channel.py", line 462, in receive
+    sender_id = await self._extract_sender(request)
+  File "/home/redlcamille/anaconda3/lib/python3.7/site-packages/rasa/core/channels/channel.py", line 412, in _extract_sender
+    return req.json.get("sender", None)
+  File "/home/redlcamille/anaconda3/lib/python3.7/site-packages/sanic/request.py", line 167, in json
+    self.load_json()
+  File "/home/redlcamille/anaconda3/lib/python3.7/site-packages/sanic/request.py", line 177, in load_json
+    raise InvalidUsage("Failed when parsing body as json")
+sanic.exceptions.InvalidUsage: Failed when parsing body as json

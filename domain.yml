@@ -1,0 +1,42 @@
+intents:
+  - greet
+  - how_are_you
+  - ask_name
+  - bot_challenge
+  - knowledge_ask
+  - exercise_ask
+  - being_impolite
+
+responses:
+  utter_greet:
+  - text: "Hey! How are you?"
+
+  utter_howareyou:
+  - text: "Hi, I'm fine."
+
+  utter_iamabot:
+  - text: "I am Bob, your teaching assistant."
+
+  utter_res:
+  - text: "Please check the answer"
+  
+  utter_default:   # utterance sent by action_default_fallback
+    - text: "sorry, I didn't get that, can you rephrase it?"
+  utter_response:
+    - text: "here is the response"
+      custom:
+      - response: {response}
+  utter_oof:
+    - text: "sorry, but it's not good to chat like that"
+
+entities:
+  - web_dev
+  - javascript
+  - html
+
+actions:
+  - action_answer_question
+
+session_config:
+  session_expiration_time: 60
+  carry_over_slots_to_new_session: true
