@@ -107,8 +107,10 @@
 - faire un tableau en [html](web_dev)
 - create a table in [html](web_dev)
 - inserer les images en [html](web_dev)
-- explique-moi une [inline](web_dev) [block](web_dev)
+- explique moi une [inline](web_dev) [block](web_dev)
 - a quoi sert [strong](web_dev)
+- commenter [code](web_dev) en [javascript](web_dev)
+- definition [html](web_dev)
 
 ## intent:exercise_ask
 - mon code ne marche pas
