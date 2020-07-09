@@ -34,4 +34,4 @@ jobs:
     
     - name: Deploy Rasa service
       run: |
-        pm2 start rasa run --enable-api -m models --cors "*" --debug
+        pm2 start rasa -- run --enable-api -m models --cors "*" --debug
