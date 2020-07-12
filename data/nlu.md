@@ -33,6 +33,11 @@
 - tous va bien
 
 ## intent:ask_name
+- who are you
+- what are you
+- what is your job
+- what do you do
+- what you do for a living
 - comment tu t appelles
 - what is your name
 - c est quoi ton petit nom
