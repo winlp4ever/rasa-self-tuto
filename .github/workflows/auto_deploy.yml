@@ -19,18 +19,13 @@ jobs:
     steps:
     # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
     - uses: actions/checkout@v2
-    - name: Setup Python
-      uses: actions/setup-python@v2
-      with:
-        # Version range or exact version of a Python version to use, using SemVer's version range syntax.
-        python-version: 3.7
 
     # Runs a single command using the runners shell
     - name: Install dependencies
       run: |
         pip install rasa[spacy]
         python -m spacy download fr_core_news_md
-        python -m spacy link fr_core_news_md fr
+        python -m spacy link fr_core_news_md fr --force
 
 
     # Runs a set of commands using the runners shell
@@ -39,5 +34,4 @@ jobs:
     
     - name: Deploy Rasa service
       run: |
-        pm2 rasa run -- -m models --enable-api --log-file out.log
-        pm2 rasa run -- actions --actions actions
+        pm2 reload prod-ecosystem.yml
