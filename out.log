@@ -93,3 +93,56 @@ Traceback (most recent call last):
   File "/home/redlcamille/anaconda3/lib/python3.7/site-packages/sanic/request.py", line 177, in load_json
     raise InvalidUsage("Failed when parsing body as json")
 sanic.exceptions.InvalidUsage: Failed when parsing body as json
+2020-07-13 11:01:14,327 [INFO ]  Starting Rasa server on http://localhost:5005
+2020-07-13 11:01:37,630 [INFO ]  Added 'SpacyNLP' to component cache. Key 'SpacyNLP-fr'.
+2020-07-13 11:53:33,159 [ERROR]  Encountered an exception while running action 'action_answer_question'. Bot will continue, but the actions events are lost. Please check the logs of your action server for more information.
+2020-07-13 11:53:33,167 [ERROR]  Encountered an exception while running action 'action_ask2rate_answer'. Bot will continue, but the actions events are lost. Please check the logs of your action server for more information.
+2020-07-13 11:53:41,197 [ERROR]  Encountered an exception while running action 'action_answer_question'. Bot will continue, but the actions events are lost. Please check the logs of your action server for more information.
+2020-07-13 11:53:41,205 [ERROR]  Encountered an exception while running action 'action_ask2rate_answer'. Bot will continue, but the actions events are lost. Please check the logs of your action server for more information.
+2020-07-13 12:24:25,524 [INFO ]  Starting Rasa server on http://localhost:5005
+2020-07-13 12:25:44,203 [ERROR]  Experienced exception while trying to serve
+Traceback (most recent call last):
+  File "/home/redlcamille/anaconda3/lib/python3.7/site-packages/sanic/app.py", line 1167, in run
+    serve(**server_settings)
+  File "/home/redlcamille/anaconda3/lib/python3.7/site-packages/sanic/server.py", line 892, in serve
+    trigger_events(before_start, loop)
+  File "/home/redlcamille/anaconda3/lib/python3.7/site-packages/sanic/server.py", line 668, in trigger_events
+    loop.run_until_complete(result)
+  File "uvloop/loop.pyx", line 1450, in uvloop.loop.Loop.run_until_complete
+  File "uvloop/loop.pyx", line 1443, in uvloop.loop.Loop.run_until_complete
+  File "uvloop/loop.pyx", line 1351, in uvloop.loop.Loop.run_forever
+  File "uvloop/loop.pyx", line 519, in uvloop.loop.Loop._run
+  File "uvloop/loop.pyx", line 436, in uvloop.loop.Loop._on_idle
+  File "uvloop/cbhandles.pyx", line 90, in uvloop.loop.Handle._run
+  File "uvloop/cbhandles.pyx", line 68, in uvloop.loop.Handle._run
+  File "/home/redlcamille/anaconda3/lib/python3.7/site-packages/rasa/core/run.py", line 239, in load_agent_on_start
+    _interpreter = NaturalLanguageInterpreter.create(endpoints.nlu or nlu_model)
+  File "/home/redlcamille/anaconda3/lib/python3.7/site-packages/rasa/core/interpreter.py", line 54, in create
+    return RasaNLUInterpreter(model_directory=obj)
+  File "/home/redlcamille/anaconda3/lib/python3.7/site-packages/rasa/core/interpreter.py", line 274, in __init__
+    self._load_interpreter()
+  File "/home/redlcamille/anaconda3/lib/python3.7/site-packages/rasa/core/interpreter.py", line 297, in _load_interpreter
+    self.interpreter = Interpreter.load(self.model_directory)
+  File "/home/redlcamille/anaconda3/lib/python3.7/site-packages/rasa/nlu/model.py", line 301, in load
+    return Interpreter.create(model_metadata, component_builder, skip_validation)
+  File "/home/redlcamille/anaconda3/lib/python3.7/site-packages/rasa/nlu/model.py", line 328, in create
+    component_meta, model_metadata.model_dir, model_metadata, **context
+  File "/home/redlcamille/anaconda3/lib/python3.7/site-packages/rasa/nlu/components.py", line 737, in load_component
+    self.__add_to_cache(component, cache_key)
+  File "/home/redlcamille/anaconda3/lib/python3.7/site-packages/rasa/nlu/components.py", line 698, in __add_to_cache
+    f"Added '{component.name}' to component cache. Key '{cache_key}'."
+  File "/home/redlcamille/anaconda3/lib/python3.7/logging/__init__.py", line 1378, in info
+    self._log(INFO, msg, args, **kwargs)
+  File "/home/redlcamille/anaconda3/lib/python3.7/logging/__init__.py", line 1514, in _log
+    self.handle(record)
+  File "/home/redlcamille/anaconda3/lib/python3.7/logging/__init__.py", line 1524, in handle
+    self.callHandlers(record)
+  File "/home/redlcamille/anaconda3/lib/python3.7/logging/__init__.py", line 1586, in callHandlers
+    hdlr.handle(record)
+  File "/home/redlcamille/anaconda3/lib/python3.7/logging/__init__.py", line 894, in handle
+    self.emit(record)
+  File "/home/redlcamille/anaconda3/lib/python3.7/logging/__init__.py", line 1028, in emit
+    stream.write(msg + self.terminator)
+KeyboardInterrupt
+2020-07-13 12:25:48,638 [INFO ]  Starting Rasa server on http://localhost:5005
+2020-07-13 12:26:11,143 [INFO ]  Added 'SpacyNLP' to component cache. Key 'SpacyNLP-fr'.

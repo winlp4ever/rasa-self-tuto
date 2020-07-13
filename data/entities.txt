@@ -17,6 +17,7 @@ class
 prototype
 const 
 let
+var
 development
 background
 image
@@ -46,3 +47,7 @@ left
 right
 code
 comment
+padding
+align
+outline
+resize

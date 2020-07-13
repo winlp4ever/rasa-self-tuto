@@ -36,6 +36,7 @@ entities:
 
 actions:
   - action_answer_question
+  - action_ask2rate_answer
 
 session_config:
   session_expiration_time: 60

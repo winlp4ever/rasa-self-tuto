@@ -13,6 +13,7 @@
 ## ask knowledge question
 * knowledge_ask
   - action_answer_question
+  - action_ask2rate_answer
 
 ## ask exercise question
 * exercise_ask

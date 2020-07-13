@@ -16,7 +16,8 @@ class ActionAnswerQuestion(Action):
 #
     def run(self, dispatcher, tracker, domain):
         dispatcher.utter_message(text='hmm now a response', json_message={
-            "oof": "now what"
+            "type": "answer",
+            "answer": "here is a very very long response :v"
         })
         return []
 
@@ -28,3 +29,17 @@ class ActionDefaultFallback(Action):
     def run(self, dispatcher, tracker, domain):
         dispatcher.utter_message(text="Merci de reposer la question")
         return []
+
+
+class ActionAsk2RateAnswer(Action):
+    def name(self):
+        return "action_ask2rate_answer"
+
+    def run(self, dispatcher, tracker, domain):
+        dispatcher.utter_message(
+            text='how do you think about the response',
+            json_message={
+                "type": "multiple-choice",
+                "choices": ""
+            }
+        )

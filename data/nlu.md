@@ -49,6 +49,9 @@
 - je peux t appeler comment
 - c est quoi ton boulot
 - pourquoi on a besoin de toi
+- t'es qui 
+- qui est toi
+- tu es quoi
 - vous etes quoi
 - vous etes qui
 
@@ -115,6 +118,7 @@
 - explique moi une [inline](web_dev) [block](web_dev)
 - a quoi sert [strong](web_dev)
 - commenter [code](web_dev) en [javascript](web_dev)
+- faire un commentaire en [code](web_dev) en [javascript](web_dev)
 - definition [html](web_dev)
 
 ## intent:exercise_ask
@@ -128,6 +132,7 @@
 - what is the error of my code
 - aide moi 
 - ou est l erreur svp
+- je ne comprends pas
 
 ## lookup:web_dev
 data/entities.txt
