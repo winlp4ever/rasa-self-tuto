@@ -26,6 +26,14 @@ python -m spacy link fr_core_news_md fr
 export CUDA_VISIBLE_DEVICES=-1
 ```
 
+## Training
+
+Before start using RASA, please retrain it using
+
+```bash
+rasa train
+```
+
 ## How to use rasa service 
 
 Start Rasa server by running:
@@ -43,6 +51,8 @@ curl http://localhost:5005/webhooks/rest/webhook -d '{"message":"t es quoi", "se
 ```
 
 ## How to use only Rasa NLU
+
+For Bob, we're only interested in RASA NLU for the moment. You can launch it by
 
 ```bash
 rasa run --enable-api -m models --cors "*" --debug # the filepath can be changed to any model's path you have trained
