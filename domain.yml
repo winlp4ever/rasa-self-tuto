@@ -2,7 +2,6 @@ intents:
   - greet
   - how_are_you
   - ask_name
-  - bot_challenge
   - knowledge_ask
   - exercise_ask
   - being_impolite

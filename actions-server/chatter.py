@@ -3,7 +3,7 @@ import time
 import random
 
 exec_stack = []
-nb_requests = 50
+nb_requests = 100
 
 count = [0]
 

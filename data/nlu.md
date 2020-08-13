@@ -31,6 +31,10 @@
 - how are you doing
 - tu vas bien
 - tous va bien
+- vous allez bien
+- are you fine
+- are you doing ok
+- are you ok
 
 ## intent:ask_name
 - who are you
@@ -51,11 +55,10 @@
 - pourquoi on a besoin de toi
 - t'es qui 
 - qui est toi
+- qui etes vous
 - tu es quoi
 - vous etes quoi
 - vous etes qui
-
-## intent:bot_challenge
 - t'es un bot
 - est-ce t'es un humain
 - are you a bot

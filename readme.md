@@ -62,3 +62,13 @@ and use it by typing:
 ```bash
 curl localhost:5005/model/parse -d '{"text":"hello"}'
 ```
+
+## Custom actions
+
+We develop custom actions web server using flask. In production, we prefer gunicorn as it is easy to configure, light-weight and fast. Begin by installing `gunicorn` with `pip install gunicorn`.
+
+Then launching the gunicorn server with:
+
+```bash
+gunicorn --bind 0.0.0.0:5006 --workers=4 responder:app
+```

@@ -1,3 +1,5 @@
+import time 
+import logging
 
 template = {
     'events': [
@@ -43,6 +45,7 @@ class ActionAnswerQuestion(object):
         '''
             execute Action
         '''
+        st = time.time()
         # copy the template
         msg = template.copy()
         # get student's question
@@ -70,6 +73,7 @@ class ActionAnswerQuestion(object):
         else:
             res = unableToAnswer(question)
         msg['responses'] = [res]
+        logging.info('answer-duration %.2f' % (time.time() - st))
         return msg
 
 class ActionDefaultFallback(object):
