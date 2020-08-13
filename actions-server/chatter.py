@@ -3,19 +3,17 @@ import time
 import random
 
 exec_stack = []
-nb_requests = 100
-
+nb_requests = 1000
 count = [0]
 
-def log():
-    count[0] += 1
-    print(count[0])
+def log(r, *args, **kwargs):
+    print(r.json()[0]['text'])
 
 for i in range(nb_requests):
     exec_stack.append(grequests.post('http://localhost:5005/webhooks/rest/webhook', json={
-        "message":"c'est quoi html", 
+        "message":"bonjour", 
         "sender": i
-    }, hooks=dict(response=log)))
+    }, hooks={'response': log}))
 
 st = time.time()
 grequests.map(exec_stack)
