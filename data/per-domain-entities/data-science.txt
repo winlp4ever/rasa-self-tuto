@@ -1,0 +1,2457 @@
+exploratory data analysis
+dc.renderall method
+areas under
+integer features
+sort method
+date range
+def keyword
+categorical variables class labels
+terminal nodes
+random variation
+testing and absence of bugs
+properties of
+handling spelling mistakes
+structtype function
+bunch objects
+unexplained variation
+many-to-many relationship
+with indices
+object-oriented design
+modulus operator
+census bureau
+model-based feature selection
+kernelized support vector machines kernel trick
+hasattr function
+argument scatter
+training model
+boolean expression
+observed frequency
+bayesian inference
+guardian pattern
+building pipelines
+fit_transform method
+grouped frequency distribution
+145\u00a9 taweh beysolow ii 2018 t. beysolow ii
+harry potter and the sorcerer\u2019s stone
+theory behind
+explained variation
+normal approximation to binomial distribution
+facial recognition
+pearson coefficient of skewness
+xv greatest common divisor
+doi 10.1007 978-1-4842-
+biased sample
+project primary objective
+compound event
+logical operator
+database object
+evaluation metrics and scoring for binary classification
+project charter
+regularization l1 regularization
+prediction interval
+researching question
+deep copy
+instance attribute
+nonresponse bias
+misleading graphs
+monitoring systems
+test of normality
+load_data function
+monty python and the holy grail
+nns tag
+import nltk code
+pseudorandom number generators
+natural experiment
+cumulative probability
+installing libraries
+computing power
+p2 placeholder
+raw data
+programmer-defined function
+download options
+capable of generalization
+.reduce method
+viii frequency
+named entity recognition technique
+inverse cdf algorithm
+openml platform
+binary cross entropy
+transforming data overview
+sequential function
+print function
+difference between two means
+matched pair design
+single-layer perceptron
+.csv package
+pipeline preprocessing and
+wilcoxon signed-rank test
+in reddit posts classification case study
+disjoint events
+vii data representation
+making predictions
+adam optimization algorithm
+variances equal
+interactive dashboards
+search query
+comparing accuracy of origi- nal data set with latent variables
+regular expression tokenizer
+emotional response
+models calibrated
+embedding layer
+compute-intensive code
+creating project charter
+normalized mutual information
+looping with
+in scikit-learn
+properties and uses
+and data
+natural language
+price of weed
+beta distribution
+odbc connectors
+sex ratio
+equality and assignment
+graphviz module
+dataset for regression
+distributed file systems
+testing repository
+volunteer sample
+overview of
+viii github
+tuples in
+linear svms
+research goals case study
+wp tag
+x average precision
+x pipelines polynomial features
+windows installation
+leave-one-out cross-validation
+redundant whitespace
+cosine similarities
+rectangle class
+marital status
+steps of
+variable-length tuple
+sample variance
+dropout layers
+telephone sampling
+two dimensions
+apache spark. see spark frame- work apache sqoop
+at least
+impossible values
+text generation
+rubber duck debugging
+todense method
+kruskal-wallis test
+vs. linear models
+advanced system settings
+eventual consistency principle
+topic models
+hairy expression
+one dimension
+parallelizing with cross-validation
+comparing on faces dataset
+used in machine learning
+statsmodel package
+kernel density estimation
+2-skip-bi-gram model
+java programming language
+total variation
+hypergeometric experiment
+python -m http.server 8000 command
+point class
+random streams
+vbp tag
+hand class
+python code
+hadoop fs chmod mode uri command
+mechanical component
+wdt tag
+average cost
+popen function
+choice of
+free string data
+document stores
+reduceadd function
+development plan
+assumptions for valid prediction
+language algorithms
+connected data example
+document store database
+membership binary search
+operator overloading
+hidden layers
+c programming language
+distributing data storage and processing with
+floating-point numbers
+cross_val_score function
+sorted function
+xor operator
+reverse word pair
+in malicious urls prediction
+input function
+viii closed form
+retrieving data
+categorical features
+safe language
+textual data
+hierarchical data
+top nodes
+ex tag
+functions with scalars and vectors
+systematic upload
+pyspark command
+sample skewness
+multiple regression
+floating-point decimal
+crossfilter.js library
+with non-negative matrix factorization
+train function
+hockey stick graph
+sample_text_dictionary function
+augmented assignment
+modified boxplot
+train_observation function
+applying to synthetic data
+stan language
+v tensorflow
+pprint module
+relational data model
+feature extraction feature engineering
+g generalization
+researching goal
+conda install praw
+leading term
+selection of
+qlik sense
+top function
+with groups
+raw moment
+interlocking words
+fw tag
+quantitative variables
+field programmable gate arrays
+executing code
+pip command
+non-negative matrix factorization features
+controlled trial
+effect size
+examples of
+for social media
+nlp techniques and document classification
+graph theory
+using expert knowledge
+negatively skewed distribution
+measures of variation
+count method
+activation function
+root cause analysis
+mapper job
+data set
+leading coefficient
+training and validation
+experimental debugging
+categorical frequency distribution
+stack diagram
+uncertainty estimates from
+recipes.json file
+numpy package
+windows odbc manager
+rectifying nonlinearity
+viii goodness of fit
+java_home variable
+critical region
+date of birth
+text classification
+dimensionality reduction
+linear regression
+analytic distribution
+car talk
+application.css file
+k-means clustering applying with scikit-learn
+spearman coefficient of correlation
+depth of network
+function object
+equally likely
+document-term matrix
+regression line
+lstms ai-based tools
+seq2seq models
+mapreduce library
+fruitful function
+observable variables
+data retrieval
+more than one word
+vs. decision trees
+urls malicious
+class diagram
+pos tagging
+computing gradients
+md5 algorithm
+pareto diagrams
+sample mean
+crooked die
+single string objects
+database normalization
+cotangent linearmode. see reverse mode cross-correlation
+deck class
+components of
+clustering agglomerative clustering
+expanding data sets
+conditional probability
+using maximum likelihood binary cross entropy
+algorithm chains and pipelines
+point estimate
+on linux
+superstitious debugging
+tfidf model
+mean squared error
+two-way analysis of variance
+visualizations with
+saddle points
+complement of an event
+data encapsulation
+nested cross-validation
+sample space
+j intermediate symbolic forms
+in data science process
+prototype mode
+data preparation and analysis
+remove_non_ascii function
+recurrent neural networks activation function
+gaussian kernels of svc
+stem and leaf plot
+at risk
+class size
+mini-batch learning
+creative commons
+pareto world
+spam detection accuracy and auc scores
+linux anaconda package installation
+partial_fit function
+skip-gram model
+source code transformation
+float function
+random forests
+xv conversion
+behavioral risk factor surveillance system
+low-dimensional datasets
+false positive
+v argument
+feed-forward neural networks
+topic modeling and document clustering
+try statement
+presentation and automation
+preferential attachment
+for t test
+of mysql installers
+p calculation
+one-vs.-rest approach
+graph-based or network data
+zip object
+pretrained embeddings
+elasticsearch installation on
+semantic error
+modal class
+elasticsearch zip package
+split method
+pareto chart
+coefficient of variation
+program testing
+measures of position
+<button> tag
+handling large data on
+cumulative frequency distribution
+xi competitions
+sql on hadoop
+survival rate
+tuple as return value
+quadratic growth
+_weights and _embedding variables
+complex datasets
+marginal change
+machine learning
+horton sandbox
+double day
+current population survey
+convolution neural networks
+trigonometric function
+pattern filter
+hadoop framework
+type function
+sparse data
+onload handler
+categorical features categorical data
+edge component
+project secondary objective
+while loop
+yates correction for continuity
+stop word filtering
+hidden units
+common phrases
+for regression
+analyzing data
+embarrassingly parallel
+data integration
+defining research goals
+unsupervised learning
+application.js file
+latent comparing accuracy of orig- inal data set with
+for f test
+anagram set
+string module
+mean for
+bell curve
+jjr tag
+importance of
+population correlation coefficient
+agglomerative clustering evaluating and comparing
+integrated development envi- ronment. see ide interaction variables
+incremental development
+map to
+indentifying decisions
+xgboost package
+volunteer bias
+complimentary rules
+ix interarrival time
+maximum likelihood estimator
+two layer neural network
+student\u2019s t distribution
+internal class
+spark-submit filename.py command
+substitution operation
+hidden state
+regression f_regression
+vs. regression problems
+webhdfs interface
+score method
+pip install git+https:  github.com davycielen  pywebhdfs.git upgrade
+saving data in hive
+composite functions
+vocabulary size and word dictionary
+distributions bell-shaped
+as return value
+age group
+linkage arrays
+information retrieval
+reducing computing needs
+x permission for use
+live testing
+dict function
+typographical conventions
+parameter selection with preprocessing
+ungrouped frequency distribution
+nltk package
+wilcoxon rank sum test
+running python
+poisson distribution
+.valueaccessor method
+unbiased estimator
+linear least squares
+gamma parameter
+standard score
+tool choice
+test one-sided
+method of steepest descent
+external data
+regression metrics
+multi-model database
+type checking
+descriptive statistics
+data preparation
+pip install word_cloud
+rules for constructing
+positive linear relationship
+chi-squared test
+different spelling
+copy deep
+pre- and post-pruning
+independent variables
+positive and negative rate
+column-oriented databases
+longitudinal study
+using pipelines in
+impossible values and sanity checks
+regression problems boston housing dataset
+pl.matshow function
+starting at zero
+cpu starvation
+designed development
+text mining and analytics
+for grouped data
+vb tag
+embedded object
+parallel and distributed sgd
+one-hot encoded vectors
+squared residuals
+avg method
+u units
+data entry errors
+linux hadoop cluster
+bubble sort
+letter frequency
+scaling training and test data
+use in h-test
+distributed computing
+nominal level of measurement
+pipelines and
+python libraries
+online learning algorithms
+createnum function
+looping with dictionaries
+stratified sample
+subreddits array
+user preferences
+data analysis
+_score variable
+object-oriented language
+bernoulli distribution
+questionnaire design
+pp library
+countpermed variable
+constant error carousal
+bootstrap grid system
+equilibrated sgd
+displaying steps attribute
+confidence level
+applying to toy dataset
+measurement scales
+tukey test
+hadoop get remoteuri command
+element deletion
+int function
+types of errors
+empty string
+diagram call graph
+hadoop fs mkdir uri command
+list methods
+multilayer perceptron models cross entropy
+response bias
+unbiased sample
+elasticsearch 1.4 repo
+operational decisions
+python programming language
+mind map
+softmax activation function
+non-negative matrix factorization
+linear transformation
+decision tree classifier
+time series
+bash anaconda2-2.4.0-linux- x86_64.sh command
+data transformation application
+building models and
+hazard function
+hortonworks odbc configura- tion dialog box
+grouping similar observa- tions to gain insight from distribution of data
+into larger datasets
+sms message length histogram
+f deep learning applications language modeling tasks
+use by hadoop framework
+hash function
+values method
+profile module
+saving data
+chmod mode uri command
+exp function
+monte carlo method
+agile project model
+compiled code
+preprocessing target value
+regression model
+working example of
+readline method
+packages for working with data in memory
+binary search
+comparison string
+built-in function
+open app button
+semi-supervised learning
+label propagation
+feature extraction algorithm
+str function
+java development kit
+css libraries
+o opencl
+libraries and tools
+just-in-time compiling
+cd tag
+hawthorne effect
+numerics 80-20 diagrams
+for elasticsearch api
+emotional debugging
+model execution
+interval level of measurement
+nosql databases
+exploding gradient
+conditional statement
+generating data
+types of
+imdb movie review data set \u201d.join function
+kernelized support vector machines
+placebo effect
+python -m simplehttpserver command
+data collection
+one-tailed test
+rmsprop algorithm
+logit function
+appending tables
+python command
+input and output dimensionality
+stable packages
+learn from the past approach
+method chaining
+math function
+data retrieval and preparation
+token filter
+true special value
+building your own systems
+__str__ method
+line plot
+race time
+rm r uri command
+knn object
+machine learning frameworks
+interquartile range
+non-negative matrix factorization applications for
+ensembles of decision trees
+deviations from code book
+algorithms evaluating
+whitening option
+cpu compressed data
+intercept_ attribute
+differences of
+sampling bias
+city size
+benchmarking tools
+autocorrelation function
+package manager
+browser-based interface
+sklearn_topic_model function
+append method
+reduceremoveavg function
+wisconsin breast cancer dataset
+mathematical formula
+gradient descent algorithm
+skip-gram model architecture
+equally likely events
+rubber duck
+relative frequency graphs
+accuracy gain
+benefits of data science and big data
+block algorithms
+sparse interactions in layer
+virtualbox tool
+scikit-learn and
+text analyzer
+jupyter notebook
+parent class
+.ipynb file
+binary classification
+positively skewed distribution
+encapsulation and generalization
+manifold learning with t-sne
+spark computing environment
+running pace
+two-sided test
+sympy package
+a activation functions
+is-a relationship
+emp_title option
+low-level language
+multinomial experiment
+optional argument
+distributed programming framework
+reduction to a previously solved problem
+boundary points
+x control group
+sklearn.cluster module
+time module
+google drive
+pip install py2neo
+apt-get install neo4j-advanced command
+bureau of labor statistics
+points to be remembered
+probability distribution
+continuous variable
+hypergeometric distribution
+factorial function
+analysis of variance
+hold-out sets
+geometric resizing
+mlp_movie_classification_ model.py file
+mathematical functions for feature transforma\u2010 tions
+matrix multiplication
+gradient clipping
+offline evaluation
+avoiding overfitting
+weighting function
+strategic decisions
+field size
+random sampling
+copying to avoid
+doctype mapping
+spearman\u2019s rank
+wave dataset illustration
+dead code
+purpose of
+search pattern
+apache mesos
+none special value
+user guide
+correcting errors early
+rescaling example of
+predictive power
+json file
+vm software
+heat maps
+gradient boosted regression trees for feature selection
+reduce phase
+open function
+copy module
+wave dataset
+deletion operation
+robust statistical technique
+cross-validation splitters
+operating points
+understanding your data
+q pooling operation
+pywebhdfs package
+k-folds cross validation
+adult weight
+comparing accuracy of orig- inal data set with latent variables
+two convolution-detector
+parallelizing with grid search
+initial approach to
+exponentially-weighted moving aver- age
+turing complete
+nltk decision tree classifier
+sample text
+ix u uncertainty estimates applications for
+research hypothesis
+finite population correction factor
+independence test
+lurking variable
+gender gap
+dbm module
+reduce functions
+sequence-to-sequence models
+database types
+sgdclassifier classifier
+imbalanced datasets
+analytic methods
+fault tolerant features
+pretty print
+use with dict
+shallow copy
+service stop command
+yum -y install python-pip command
+building recommender system inside database
+rote learning
+.csv parser
+multiple tests
+ix online testing
+python m simplehttpserver 8000 command
+artificial intelligence
+feature extraction
+m machine learning binary classification
+numpy library
+within-group variance
+join method
+sample median
+square root
+natural language toolkit
+simple example of
+predict for the future approach
+l linear unit
+debian repository
+standard deviation
+nielson television ratings
+synthetic datasets
+matrix-based factorization method
+p-value method
+dictionary subtraction
+versions used
+addition rules
+o name entity recognition tagger aggregate_function
+bytes object
+predictions with
+model coefficients
+standard normal distribution
+bidirectional rnn
+k-means clustering
+bit strings
+mro method
+circular definition
+precalculated data
+bag-of-words model advantages
+bool type
+data argument
+mysql root password
+h hidden layers
+preprocessing input data
+diagnostics and comparison
+object diagram
+random number
+randint function
+saving data in
+exogenous variable
+slice operator
+social graph
+stochastic mini-batch
+kinds of
+scatter plot
+early stopping
+data visualization. see visualizing data data warehouses
+nltk word tokenizer
+interpreting new variables
+functional programming style
+discrete probability distributions
+runs test
+ord function
+exponential distribution
+initializing parameters
+ls uri command
+function call
+hadoop fs rm r uri command
+and operator
+sign test
+vanishing gradient
+least squares fit
+cancer dataset
+linear functions
+error measures
+structure of data
+conditional expression
+proof by
+analysis of algorithms
+posix style
+recurrence using output
+apt-get install neo4j-enterprise command
+interactive mode
+function composition
+transformations selecting
+information leakage
+frequency polygon
+law of large numbers
+average case
+u.s. census bureau
+preprocessing and scaling
+discrete features
+summary table
+factory function
+convolution-detector-pooling blocks
+movie review data document classification
+min_df and max_df
+quality checks
+item update
+service programming
+comparing three or more means
+traditional method
+sqlcontext.sql function
+service install command
+loss functions
+format operator
+recurrent neural networks basics
+enthought canopy
+double blinding
+exploring data
+column-oriented database
+metrics mglearn
+randomized controlled trial
+scaling minmaxscaler
+level of significance
+word count
+data cleansing
+apparent effect
+random forest
+static typing
+python tools used in
+geometric experiment
+word_cloud library
+scikit-learn implementation
+dual_coef_ attribute
+init method
+level of
+combining data from differ- ent sources
+mutable object
+os module
+feature extraction algorithms
+node component
+get method
+tied weights
+pop method
+stacking tables
+benefits and uses of
+rpy library
+machine learning concepts
+project gutenberg
+praw package
+keras models
+vs. linear support vector machines
+reasons for
+ordinal interaction
+model building creating hamming distance function
+and lda
+card class
+linear relationship
+add method
+sample data
+explanatory variable
+infinite loop
+c central difference approach
+skip-gram model z zero padding
+random forests analyzing
+dividing large matrix into many small ones
+interface raw data column over- view
+method for hypothesis testing
+cross-validation analyzing results of
+reading and writing
+activate nameoftheenv command
+false special value
+training the model
+vs. k-nearest neighbors
+x samples
+boston housing dataset
+ordinary least squares
+adjusted r
+computational methods
+randomization in
+big and hairy
+rmse metric
+predict_proba function
+nonrejection region
+definition circular
+letter rotation
+student\u2019s t
+reducecount function
+ix ridge regression
+for machine learning
+stationary model
+unbiased estimate
+confidence interval for
+wolfram alpha engine
+absolute path
+probability mass function
+decision function
+margin of error
+child class
+lowercasing words
+similar observations to gain insight from distri- bution of data
+kaplan-meier estimation
+cc tag
+assert statement
+recipe recommendation engine example presentation
+simulating joins using
+geometric distribution
+scheduling tools
+retrospective study
+hierarchical clustering
+probabilistic programming
+iris classification example
+viii representative
+network data
+checking string-encoded data
+mnist database
+multiline string
+day variable
+temporary variable
+tuning parameters with
+mapreduce programming method problems solved by spark
+boolean function
+string methods
+optimization algorithm
+bisect module
+hadoop fs ls command
+reverse mode
+mapreduce algorithms
+markov analysis
+results.summary function
+reduceinit function
+string-encoded categorical data
+selecting learning rate
+problem with on many nodes
+supporting decisions
+international data corporation. see idc internet of things
+leave-1 out validation strategy
+pearson\u2019s product moment
+true positive
+interaction features
+conda install libraryname command
+central tendency
+linux installation
+probability distribution as a
+snowball stemming
+cluster sample
+void function
+topicid column
+hypothesis testing
+is hard
+code examples downloading
+free documentation license
+wikipedia api
+finding latent variables in wine quality data set
+key variable
+gradient noise
+stemming and lemmatization
+finding in wine quality data set
+hadoop fs -put localuri remoteuri command
+unrolling process
+data representation and
+feature extraction with
+algorithmic variations
+distribution of sample means
+gallup poll
+word frequencies
+import statement
+nested conditional
+close method
+biased coin
+identifying and supporting
+error message
+sanity check
+multiplication rules
+evaluation metrics and scoring
+correlation coefficient
+document clustering
+with lda
+in brackets
+rank correlation
+data integration framework
+tricks and tips activation function
+grid search preprocessing steps
+multilayer perceptrons
+l1 and l2 norm visualization
+controlling complexity of
+keyboard input
+analyzing kneighborsregressor
+lending club
+graphics processing unit computationally heavy code
+requirements for a probability distribution
+preprocessing data for
+function syntax
+to avoid aliasing
+data preparation in
+collatz conjecture
+unix command
+return statement
+variables interpreting new variables
+ridge regression
+convenience sample
+type conversion
+multinomial distribution
+data preparation in spark
+strip function
+estimator_ attribute of rfecv
+area under the curve
+state diagram
+vocabulary building
+with principal component analysis
+for loop
+one-sided test
+assumptions for the test to determine
+information hiding
+device memory
+selecting with grid search
+mean deviation
+python http server
+command queues
+locality-sensitive hashing
+mapreduce use by
+pycuda library
+optimization problems
+google maps
+bayesian statistics
+word embeddings computation graph
+ipcluster library
+prp tag
+class definition
+getcwd function
+logarithmic scale
+setting up
+standard error of difference between propor- tions
+exists function
+tuning svm parameters
+packages for working with data in
+zipf \u2019s law
+movie reviews scikit-learn library
+vector addition
+rest framework
+extend method
+floating-point division
+one-out-of-n encoding
+left-tailed test
+lda word2vec
+na\u00efve bayes model
+step function
+gradient-based methods
+hortonworks option
+tanh activation function
+python in a browser
+simple function
+horizontal scaling of data
+causal relationship
+graph databases
+one-hot encoding data
+evaluating with ground truth
+xv crossover point
+update method
+multiplication rules probability
+chain rule
+lower-level languages
+shortcut formula
+different ways of
+find function
+deep learning with python
+vbn tag
+apache lucene
+d deep learning advances in related fields
+data-driven research
+null hypothesis
+denial of service. see doa denormalization
+constant time
+positive class
+topics and words simplexes
+relative path
+mysql database
+error rate
+np.random.seed function
+int type
+categorical variable
+django rest framework
+stochastic gradient descent
+mutually exclusive events
+beeswax hiveql editor
+syntax error
+sparse coding
+pip install libraryname command
+meta-estimators for trees and forests
+windows anaconda package installation
+recursive feature elimination
+custom reduce function
+formula for
+lasso model
+confounding variable
+t-sne algorithm
+linear algebra
+proof by contradiction
+word embeddings
+cumulative sum
+estimating complexity in
+different levels of aggregation
+empirical rule
+hadoop put mycsv.csv  data command
+mysql console
+dummy variables
+probability density function
+multi-node deployment
+testing production systems
+as default value
+quadratic model
+data file-by-file
+reducing number of variables
+shape error
+vbd tag
+data transformation
+multiclass classification
+dt tag
+chi-squared statistic
+hands-on with autograd
+moving average
+vector quantization with
+outlier detection
+sqrt function
+as argument
+kernel svms
+parametric tests
+optimizing operations
+decision trees
+with strings
+core code for
+scaling mechanisms in
+first babies
+tanh activation and derivative function
+difference in
+negative class
+selection bias
+structured data
+reddit sqlite file
+neo4j graph database
+for mean
+options for
+empty list
+k keras
+lstm paragraph2vec
+.filterall method
+cohort effect
+grand mean
+http server
+returned cluster assignments
+counting rules
+function definition
+\intelligent\ applications
+applying to face images
+t tangent linearmode. see forward mode tanh activation function
+custom setup option
+handcoded rules
+applications for
+mysql notifier
+big-oh notation
+exponential growth
+treatment group
+floor division
+sampling distribution
+parameter selection with
+int_rate option
+preprocessing function
+expected value
+colon prefix
+lstm placeholder variables
+normal probability plot
+size for estimating means
+frequency distribution
+vector form
+random choice
+unsupervised nature of
+jjs tag
+freeform text data
+s scipy
+grid search and
+programmer-defined type
+pure function
+filter pattern
+radd method
+predicting new observations
+ensembles defined
+sym tag
+plot bar
+problem task domain
+round-trip applications
+linear unit
+error function
+weighted resampling
+feature importance
+phrase matching
+false negative
+parameters in
+james joyce ramble
+single computer
+weight and bias units
+data and labels in
+abs function
+typographical error
+with cross-validation
+homogeneity or proportions
+combining data from different sources
+k-fold cross-validation
+generative process
+with borrowing
+flow of execution
+measures of variation and standard deviation
+comparison sort
+parentheses argument in
+ensemble learning
+placeholder variables
+one-hot encoded vector
+random numbers
+windows hortonworks odbc configuration dialog box
+compound statement
+linear search
+multiple data
+how achieved by
+positional argument
+grammatical characters
+human involvement oversight
+method invocation
+grouping similar observations to gain insight from dis- tribution of data
+ratio level of measurement
+syntax for
+statistically significant
+recent breakthroughs in
+data marts
+python 2 vs. python
+tokenization and stop words boolean variable
+fibonacci function
+correcting early
+pregnancy length
+uncertainty estimates
+units of
+false positive rate
+automatic differentiation fundamentals
+statistical test
+hexbin plot
+system physical view
+modeling stock returns lstm
+standard error of the mean
+case study discerning digits from images
+manifold learning algorithms applications for
+alternative hypotheses
+xii open function
+response variable
+failures of
+arthur conan
+fit method
+.group method
+function frame
+standard normal
+read method
+chebyshev\u2019s theorem
+supervised learning
+wine quality data set
+b backpropagation through time
+binary count
+iris classification application
+using views to simulate data joins and appends
+deepcopy function
+pure leafs
+data value
+ipython notebook command
+receiver operating characteristics curves
+birth time
+script mode
+string method
+principle of
+by bisection
+rbr tag
+control group
+approach to problem solving
+datetime module
+testing your system
+sequential code
+pearson coefficient of correlation
+equally spaced data
+symbolic differentiation
+xkcd color survey
+item assignment
+relational databases core principle of
+single-occurrence terms
+flatten layers
+notation for the binomial distribution
+sigmoid unit
+mysql root user
+python tools
+grid search accessing pipeline attributes
+modeling process
+endogenous variable
+prototype and patch
+malicious urls
+dense regions
+tree structures
+transposition operation
+batch vs. stochastic
+cumulative product
+text data
+neural networks characters
+main function
+data_processing function
+internal data
+topic extraction
+blaze library
+convolution neural networks convolution-detector-pooling blocks
+inverse cdf
+mysql u root p command
+service start command
+shelve module
+metric selection
+factorial notation
+stochastic single example
+validating model
+multistage sampling
+python benefits of
+false positive false negative errors
+feature_names attribute
+train_logistic_model function
+data points
+for difference of means
+test statistic
+learning rate activation function
+naive bayes classifiers
+nonetype type
+rejection region
+isinstance function
+hit rate
+cross entropy
+topic modeling
+modeling error
+encoder_decoder function
+summary statistic
+subjective probability
+type i error
+natural language toolkit module
+converting data to one-hot-encoding
+unwanted advertisements  malicious files
+object-oriented programming
+string type
+archimedian spiral
+vbg tag
+b backward difference method
+data representation
+directed graph
+summary of
+binomial distribution
+machine learning algorithm chains and pipelines
+moment of inertia
+definition of
+system logical view
+dc.js file creating interactive dashboard with
+stratified k-fold
+normal distribution
+recommender systems
+strengths and weaknesses
+browse data button
+reduceaddavg function
+arc function
+column-family stores
+column databases
+worst case
+presenting results
+jquery selectors
+squared error
+pooling operation
+remove method
+compound bar graph
+pie graph
+personal interviews
+matplotlib package
+levels of measurement
+building models
+choice function
+softmax activation
+tabletemplate variable
+grid system
+model diagnostics and model comparison
+f feedforward neural networks
+expected remaining lifetime
+bisection search
+reddit posts classification case study
+linear models
+assumptions for valid predictions in regression
+multilayer perceptron
+single sample sign test
+relatively efficient estimator
+training and test data
+augmenting data with
+linear models classification
+overfitting vs. underfitting
+relay race
+survival curve
+natural language understanding
+preparing data case study
+turning variables into dummies
+swap pattern
+turing complete language
+storing data on
+data lakes
+mysql server
+information gain
+alternate strategies for
+nasdaq example
+representing using one-hot-encoding
+word embedding cosine similarity
+text_classifiction_demo.py file
+problems encountered
+measurement error
+debugging by
+reduceremove function
+inferential statistics
+standardized moment
+cos function
+transform method
+reload function
+factor analysis
+data mining
+best_params_ attribute
+quantile plot
+chi-square assumptions
+pickle module
+mysql server installation
+base case
+root mean squared error
+evaluation metrics and scoring for
+value_counts function
+comparing two variances
+private memory
+grid-searching for model selection
+red hat cluster file system
+liskov substitution principle
+user nodes
+data storing in hive
+format string
+neo4j installation
+problem solving building your own estimators
+sample hive hortonworks dsn option
+main effects
+continuous bag-of-words model
+soft voting strategy
+two-tailed test
+interpretation error
+newsql platforms
+independent events
+sanity checks
+else keyword
+default value
+classification error rate
+percent point function
+chained conditional
+sine function
+addition with
+algorithm parameter
+logarithmic growth
+probabilistic modeling
+different units of measurement
+geometric mean
+influential observation or point
+underscore character
+and text mining
+del operator
+bitwise operator
+set membership
+least squares
+decision boundaries
+gradient boosting
+variablesintable argument
+scikit-learn library
+model selection with
+long short term memory
+units of measurement
+hadoop fs ls uri command
+chi-squared distribution
+windows command window
+fermat\u2019s last theorem
+mistake functions
+apache flume
+function type
+scree plot
+work groups
+hadoop fs ls r argument
+scaling and preprocessing for
+classification accuracy
+mental model
+holm-bonferroni method
+open-ended distribution
+specific data
+spelling mistakes
+loss function
+feature importance in
+ford motor company
+if else structure of
+type ii error
+vii model evaluation and improvement
+harmonic mean
+items method
+poisson experiment
+output layer
+statistical hypothesis
+average loan amount chart
+neural networks
+programmer defined
+total loan amount chart
+anecdotal evidence
+generator expression
+building pipelines with make_pipeline
+red-black tree
+time class
+independent component analysis
+normal approximation
+xv min function
+expected frequency
+five-number summary
+title argument
+softmax layer
+evaluation and improvement
+relu activation function
+turtle typewriter
+data transformations
+value variable
+hadoopy library
+enumerate function
+25-129 algorithms for decision trees
+reduceinitavg function
+google adsense
+applied natural language processing with python
+train_test_split function
+reasons for using
+survival analysis
+on windows
+pip install praw
+leap of faith
+runtime error
+labeled data
+subtraction with
+treatment groups
+crossfilter.min.js file
+polynomial kernels
+nosql example
+sentiment analysis example
+fundamental counting rule
+classification problems binary vs. multiclass
+complexity vs. dataset size
+ipython notebook files
+blue man
+mnist data set
+contingency table
+fully connected layers
+xv frequency
+log function
+github repository
+contingency coefficient
+creating interactive dashboard with dc.js
+systematic sampling
+national survey of family growth
+jj tag
+formal language
+radial basis function kernel
+parallelization over a cluster
+boolean operator
+map pattern
+support vectors
+average interest rate chart
+rectified linear unit
+unstructured data
+bag of words approach
+word filtering overview
+file systems
+javascript dashboarding library
+order of growth
+neural networks accuracy of
+compute unified device archi- tecture. see cuda conda command
+moneyball: the art of winning an unfair game
+computationally heavy code
+tf.nn.embedding_lookup function
+hive data storing in
+fully connected layer
+bitcoin mining
+incomplete information
+full batch learning
+random samples
+polygon function
+raise statement
+optional parameter
+how achieved by hadoop framework
+max_features parameter
+fitted values
+f =y formula
+function argument
+data exploration
+serial correlation
+shopping around
+correct positive
+confirmation bias
+default port
+independent samples
+dispy library
+conda install dask
+getattr function
+special value false
+multiple birth
+time series graph
+trivers-willard hypothesis
+floating-point value
+recurrent neural networks
+bag-of-words representation applying to movie reviews
+acquiring url data
+discrete variable
+dot product
+model evaluation
+setting research goal
+foreign keys
+conditional execution
+retrieving data case study
+simulating using views
+simple term count
+one-time presentations
+complementary events
+actual and predicted values
+simple event
+iterative solver
+error runtime
+table analogy
+setting up environment
+continuous vs. discrete features
+empirical probability
+coefficient of determination
+practical significance
+pipeline preprocessing
+test case
+preprocessing steps
+pearson median skewness
+squiggly bracket
+void method
+custom analyzer
+scatter plots
+model selection and
+or operator
+latent variables comparing accuracy of origi- nal data set with
+invert dictionary
+random walk programming
+__dict__ attribute
+sqlite3 package
+data science process overview
+for multiclass classification
+pip install pandas command
+continuous distribution
+line of best fit
+specific task
+pseudo r-squared
+has-a relationship
+koch curve
+mapreduce function
+interaction with hadoop file system
+tokenizing data
+zip function
+data into memory
+latent dirichlet allocation assumptions
+electrical component
+lower class limit
+to filter medicine data set
+levels of
+pipeline interface
+normally distributed variables
+properties of the distribution of sample means
+<div> tags
+set subtraction
+playing cards
+radix sort
+nnps tag
+building blocks
+analysis of primitives
+local minima
+characteristics of
+problem solving
+global statement
+vs. gradient boosted regression trees
+natural language processing
+permutation rule
+machine learning packages
+gaussian distribution
+.dimension method
+key-value stores
+confirmatory result
+joining tables
+don't reinvent wheel
+system deployment
+data retrieval. see retrieving data data science process
+benefits of python for
+bar charts
+confusion matrices
+using command line to interact with file system
+birthday paradox
+module object
+comparing accuracy of original data set with latent variables
+cost functions computation of
+integer labels
+big data benefits and uses of
+recursive definition
+elasticsearch function
+discerning simplified latent structure from data
+quadratic mean
+interaction effect
+netflix prize challenge
+sqlite file
+division floating-point
+predicting probabilities
+manifold learning t-sne
+using pipelines in grid searches
+binning and
+cross-sectional study
+reducing number of
+residual plot
+disordinal interaction
+encoded as numbers
+hadoop fs mv olduri newuri command
+biased estimator
+bracket operator
+pip install wikipedia
+dependent samples
+venn diagram
+lognormal distribution
+applications of
+naive bayes
+developer default option
+pylearn2 toolbox
+time series predictions
+scheff test
+standard error
+size for estimating proportions
+max function
+power of a test
+login configuration
+sampling error
+qualitative variables
+control variable
+study cross-sectional
+vs. classification
+scikit-learn classes and functions accuracy_score
+document classification
+tfidfvectorizer method
+vs. random forests
+movie reviews
+dashboarding library
+distribution-free statistics
+uses of data science and big data
+formal language theory
+z-test for means
+discrete distribution
+end of line character
+reducesum function
+python definition
+shortcut formula for variance and standard deviation
+oldstable repository
+presenting findings and build- ing applications on them
+goals of
+bar plot
+z-test for proportions
+hortonworks sandbox
+k-nearest neighbors analyzing kneighborsclassifier
+normal probability
+replace method
+model complexity vs. dataset size
+batch normalization
+bootstrap samples
+cumulative relative frequency
+class object
+bar graph
+lambda r:r.split
+vowpal wabbit
+wp$ tag
+structured query language. see sql subreddit category
+pooled estimate of variance
+class attribute
+looping and counting
+pandas python library
+pydoop library
+student\u2019s t-distribution
+data array
+np.around function
+relational operator
+k-nearest neighbors
+tuple function
+measures of dispersion
+l1 regularization
+elif keyword
+recipe recommendation engine example
+notes for the use of
+steps in computing
+sequence sampling
+email address
+portablity of
+approximation to the binomial distribution
+reliability of
+supervised machine learning
+of objects
+assignment statement
+javascript mapreduce library
+lower class boundary
+bidirectional rnns
+in operator
+clustering algorithms agglomerative clustering
+resilient backpropagation
+print statement
+e equilibrated sgd
+test value
+exploratory phase
+machine-generated data
+forge dataset
+iterative feature selection
+test data test sets boston housing dataset
+distribution framework
+mkdir uri command
+enriching aggregated measures
+training and test sets
+length pregnancy
+user-defined function
+tuning parameters with grid search
+creating with dc.js
+model and variable selection
+string concatenation
+sharding process
+steps in
+command line
+red wine quality data set
+cumulative distribution function
+bag-of-words representation
+primary keys
+optimal solution
+univariate nonlinear transformations
+linkage choices
+turning into dummies
+generalization building models for
+text file
+automatic reasoning engines
+real world applications of
+online resources
+special case
+linear fit
+symmetric distribution
+statsmodels library
+comments and questions
+data quality checks
+get_dummies function
+representation in training and test sets
+production systems testing
+train_brnn_keras function
+variance test
+mysql workbench
+shuffle-split cross-validation
+negative sampling
+file object
+events complementary
+step size
+gamma function
+statistical learning
+example of
+columnar databases
+model building
+sparql language
+nltk.download command
+expert knowledge
+cluster centers
+effect of data representation choices on
+starting with data stored within company
+facets of data
+full-text searches
+triple-quoted string
+normal quantile plot
+random function
+case study
+customer segmentation
+cumulative frequency graph
+sin function
+positively skewed
+automation in reddit posts classification case study
+binomial variable
+digital signal processors
+cross-validation of
+presenting data nosql example
+openrecipes.json file
+out-of-core learning
+evaluating and comparing
+multiple correlation coefficient
+nnp tag
+regression analysis
+softmax units
+elasticnet class
+py2neo library
+ibm watson
+shuffling data
+pair plots
+source activate nameoftheenv command
+latent dirichlet allocation
+degrees of freedom
+p argument
+spurious relationship
+disadvantages of
+setting up dc.js application
+get_support method of feature selection
+closed under
+computational linguistics
+precision-recall curves
+working directory
+wrb tag
+infinite recursion
+element of list
+dc.redrawall method
+quotation mark
+dc.css file
+computational graph
+activation functions
+vs. classification problems
+gnu free documentation license
+principal component analysis. see pca principal components of data structure
+nested list
+natural language processing bayesian statistics
+assumption for the use of the chi-square test
+comparing algorithms
+reversed function
+reddit python api library
+robustness-based clustering
+storing data in hive
+pearson product moment correlation coef- ficient
+sparse datasets
+createtable function
+211-250 automatic feature selection
+missing values
+objective function
+md tag
+principal components analysis
+xv ellipses
+d3.v3.min.js file
+blue man group
+availability bias
+roc curve
+java version
+error checking
+results of
+forward mode
+make_pipeline function accessing step attributes
+function parameter
+shared variable
+data complications of transferring
+list comprehension
+zero padding
+plain text
+training data
+historical context
+weighted estimate of p
+weibull distribution
+tree diagram
+industrial internet
+programming tips
+uniform resource locators. see urls unigrams
+complexities and domains
+validating models
+loanstats3d.csv.zip file
+vanishing gradients
+linear models and nonlinear features
+alpha parameter in linear models
+massive open online courses. see mooc match clause
+artificial intelligence. see ai atomicity
+key-value pairs
+standard error of difference between means
+create statement
+single instruction
+core samples core points
+challenges of
+engineering features and selecting model
+machine model
+outcome variable
+rescaling data with tf-idf
+l2 regularization
+counting and looping
+of tuples
+pruning decision trees
+slow progress in narrow valleys
+installing anaconda package on linux
+cost function
+simulation technique
+effect on supervised learning
+inconsistencies between data sources
+cap theorem
+reducible word
+len function
+compare function
+log odds
+how solve problems of mapreduce
+rolling mean
+.py code files
+repr function
+n nesterov accelerated gradient
+unbiased estimate of population variance
+pip install elasticsearch
+hinge implemented using max
+nltk corpus
+sample size
+uh tag
+worst bug
+weighted mean
+interval estimate
+mathematics of
+naive bayes classifiers kinds in scikit-learn
+tabular format
+vbz tag
+principal component analysis drawbacks of
+newton\u2019s method
+sample datasets
+century month
+build_rnn function
+binomial probability formula
+hamming distance function
+teacher forcing
+is operator
+pyspark console
+x coef_ attribute
+univariate nonlinear
+nonparametric statistics
+nonresistant statistic
+break statement
+betting pool
+negative linear relationship
+dc.min.js file
+return value
+paired-sample sign test
+simple regression
+rpy2 program
+avoiding mutable
+execution of
+unsupervised transformations
+negatively skewed
+anaconda package
+copying objects
+streaming algorithm
+sankey diagrams
+natural language processing. see nlp natural language toolkit. see nltk neo4j
+signal decomposition non-negative matrix factorization
+google charts
+as key in dictionary
+dependent events
+linear model
+__cmp__ method
+hyperbolic tangent
+z width of layer
+enumerate object
+tree module
+birth weight
+date variable
+jquery onload handler
+true positives true negatives
+translate method
+machine learning algorithm
+nonsampling error
+global variable
+rb tag
+kangaroo class
+linear support vector machines
+customer segmentation of
+local variable
+variances and standard deviations
+float type
+single layer neural network
+unsupervised machine learning
+business metrics and
+sampling weight
+streaming data
+tuple assignment
+noncritical region
+network graphs
+r language
+high-dimensional datasets
+y word embeddings
+algorithms for agglomerative clustering
+eval function
+sentiment analysis
+benefits of
+safari books online
+stop words
+dataset for
+training and testing data
+classifiers decisiontreeclassifier
+binary coded bag of words
+order of operations
+evaluating without ground truth
+searching non-grid spaces
+uses of
+method resolution order
+call graph
+moby project
+multiclass problem
+goodness-of-fit test
+ackermann function
+not operator
+generator object
+principal component analysis
+consistency check
+workflow for using
+function words
+properties of a good
+posix time
+general word filter function
+word frequency
+olin college
+joint probability distribution
+real numbers
+sigmoid activation function
+point estimation
+in binary classification evaluation
+double sampling
+c parameter in svc
+h global vectors for word representation co-occurrence
+regression decision trees
+loop variable
+pipe object
+sum function
+upper class limit
+clinically significant
+validation strategies
+alternative execution
+stanford question answering dataset
+dashboard development tools
+linear growth
+confidence interval
+157\u00a9 nikhil ketkar 2017 n. ketkar
+linear models for
+pareto distribution
+input_data variable
+scipy library
+q paragraph2vec algorithm
+percentile rank
+goals for
+spearman rank correlation coefficient
+hash tables
+pymc language
+polynomial features
+resampling test
+circle function
+system control panel
+best_score_ attribute
+combination rule
+mean square
+hidden layer weight matrix
+between-group variance
+classical probability
+deep learning dendrograms
+minimal test case
+solid state drives. see ssd solr
+for \u03c72 test
+v vanishing gradients
+mutually exclusive
+scikit-learn alternate frameworks
+experimental study
+prawgetdata function
+mean error
+homoscedasticity assumption
+kpi chart
+report building
+conda install py2neo
+python as master to control other tools
+key-value pair
+true positive rate
+language formal
+pivot tables
+movie review data
+critical value
+automatic feature selection
+row-oriented database
+user dsn
+dense fully connected layer
+word stems
+ingredients.txt file
+misuses of
+visualizing data
+continuous features
+random module
+adagrad algorithm
+get most out of hardware
+spark framework
+reduce pattern
+type-based dispatch
+sum of squares
+matrix trace
+high-level language
+simple vs. complicated cases
+chinese walls
+dbscan evaluating and comparing
+local file system commands
+pythagorean theorem
+in tag
+random_state parameter
+forcegraph.html file
+social media monitoring systems
+regular expressions
+effect on model performance
+euclidean distance
+completely randomized designs
+vector quantization
+string representation
+numerical differentiation
+probability density
+range rule of thumb
+right-tailed test
+node communication failure
+poisson regression
+resistant statistic
+brushing and linking technique
+logistic regression
+double letters
+grid-searched pipelines and
+python packages
+classification decision trees
+gridsearchcv best_estimator_ attribute
+central limit theorem
+decision trees analyzing
+complementary cdf
+ceph file system
+subtraction dictionary
+ml algorithms
+neural network
+cleansing data
+insertion operation
+random text
+observational study
+learning_rate parameter
+if statement
+deep learning
+vs. rote learning
+pdt tag
+summarizing data sets
+weak learners
+format sequence
+large data
+coefficient of nondetermination
+univariate statistics
+rbs tag
+nn tag
+vanishing gradients and relu
+uniform distribution
+dependent variable
+one-way analysis of variance
+ordinal level of measurement
+phases of
+tachyon file system
+keyword argument
+empirical distribution
+parent class in
+coefficient for correlation
+arithmetic operator
+model capacity
+tuple methods
+high recall
+delete statement
+consistent estimator
+cumulative frequency
+vii resources
+roc curve l1 and l2 logistic regression test set
+aggregated measures
+addition with carrying
+prerequisites to learning
+strip method
+proxy variable
+pandas benefits of
+binomial experiment
+upper class boundary
+mv olduri newuri command
+nosql base principles of nosql databases
+data deletion
+confusion matrix
+gensim model
+in training vs. test sets
+conda create n nameoftheenv anaconda command
+odbc manager
+coefficients with text data
+pass statement
+setdefault method
+term frequencyinverse document frequency
+business metric
+cypher graph query language
+stable sort
+maximum likelihood cost functions
+durability. see acid audio
+planned development
+total recoveries chart
+global memory
+variable-length argument tuple
+load data
+predict method
+na\u00efve bayes classifier
+reshape function
+working with text data
+stratified k-fold cross-validation
+minimal code to apply to algorithm
+adjointmode. see reverse mode artificial intelligence
+big data
+ls tag
+pruning for decision trees
+central moment
+structshape module
+javascript main function
+turing thesis
+multiclass classification vs. binary classification
+shuffle function
+update operator
+sequential construct
+mse and rmse loss function
+dashboards development tools for
+impossible values and san- ity checks
+gradient explosion
+true negative
+nltk module
+training words
+load_svmlight_file function
+datascience category
+real-time dashboards
+dictionary methods
+connected data recommender model
+permutation test
+method append
+keras code
+method syntax
+r randomstreams
+knowing the answer
+annealing and learning rate schedules
+rp tag
+iris classification application data inspection
+straight dope
+observer bias
+recursive lookups
+elasticsearch  bin folder
+dir function
+random variable
+standard error of the estimate
+reverse lookup
+os.listdir function
+data structure
+dot notation
+remove_stop_words function
+in hive
+python driver
+measures of average
+fuzzy search
+yates correction for
+training set accuracy
+data modeling
+text plain
+gradient boosted regression trees
+long short-term memory function
+quasi-experimental study
+with downhill
+correction for continuity
+adult height
+key elements
+on hadoop
+use before def
+prepackaged distributions
+polynomial regression
+unsupervised learning
+supervised learning
+trainingnumpy
+matplotlibpandas
+nltk  
+sklearn
+scikit learn
+random forest
+principal component analysis
+random variable
+tf idf
+monte carlo
+vector machine
+svm
+vector regression
+svr
+statistical analysis
+variable
+variables
+vector
+vectors
+variance
+validation
+recall
+accuracy
+notebook
+jupyter
+label
+metrics
+precision
+regression
+statistics
+statistical
+selection
+plot
+pca
+algorithm
+algorithms
+bayes
+classification
+classifier
+clustering
+cluster
+learning
+networks
+network
+unsupervised
+supervised
+scikit	
+machine
+linear
+learning
+learn
+decision
+deep
+python

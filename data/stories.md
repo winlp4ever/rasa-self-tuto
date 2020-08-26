@@ -2,21 +2,17 @@
 * greet
   - utter_greet
 
-## bot challenge
-* bot_challenge
-  - utter_iamabot
-
-## ask name
-* ask_name
-  - utter_iamabot
+## who are you
+* who_are_you
+  - utter_iambob
 
 ## ask knowledge question
-* knowledge_ask
+* knowledge_question
   - action_answer_question
   - action_ask2rate_answer
 
 ## ask exercise question
-* exercise_ask
+* exercise_question
   - action_answer_question
 
 ## reply politely

@@ -1,4 +1,4 @@
-## intent:greet
+## intent:greeting
 - hey
 - hello
 - hi
@@ -36,7 +36,7 @@
 - are you doing ok
 - are you ok
 
-## intent:ask_name
+## intent:who_are_you
 - who are you
 - what are you
 - what is your job
@@ -98,7 +98,7 @@
 - html5
 - website
 
-## intent:knowledge_ask
+## intent:knowledge_question
 - [javascript](javascript) html
 - position relative en [css](web_dev)
 - [js](javascript) do while 
@@ -123,8 +123,13 @@
 - commenter [code](web_dev) en [javascript](web_dev)
 - faire un commentaire en [code](web_dev) en [javascript](web_dev)
 - definition [html](web_dev)
+- what is [machine learning algorithm](data_science)
+- explain to me [machine learning algorithm](data_science)
+- how to write [machine learning algorithm](data_science)
+- [natural language processing](data_science) examples
+- definition [machine learning algorithm](data_science)
 
-## intent:exercise_ask
+## intent:exercise_question
 - mon code ne marche pas
 - bonjour je ne trouve pas la solution pouvez vous m orienter s il vous plais
 - je me suis bloquer aider moi svp
@@ -138,4 +143,7 @@
 - je ne comprends pas
 
 ## lookup:web_dev
-data/entities.txt
+data/per-domain-entities/web-dev.txt
+
+## lookup:data_science
+data/per-domain-entities/data-science.txt
