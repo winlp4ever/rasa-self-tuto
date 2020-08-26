@@ -1,6 +1,6 @@
 # Configuration for Rasa NLU.
 # https://rasa.com/docs/rasa/nlu/components/
-language: "fr"  # your two-letter language code
+language: "en"  # your two-letter language code
 
 pipeline:
   - name: SpacyNLP
@@ -23,6 +23,7 @@ pipeline:
 # https://rasa.com/docs/rasa/core/policies/
 policies:
   - name: MemoizationPolicy
+    max_history: 1
   - name: TEDPolicy
     max_history: 5
     epochs: 100

@@ -98,7 +98,7 @@
 - html5
 - website
 
-## intent:knowledge_question
+## intent:knowledge_question_web_dev
 - [javascript](javascript) html
 - position relative en [css](web_dev)
 - [js](javascript) do while 
@@ -123,11 +123,6 @@
 - commenter [code](web_dev) en [javascript](web_dev)
 - faire un commentaire en [code](web_dev) en [javascript](web_dev)
 - definition [html](web_dev)
-- what is [machine learning algorithm](data_science)
-- explain to me [machine learning algorithm](data_science)
-- how to write [machine learning algorithm](data_science)
-- [natural language processing](data_science) examples
-- definition [machine learning algorithm](data_science)
 
 ## intent:exercise_question
 - mon code ne marche pas
@@ -144,6 +139,3 @@
 
 ## lookup:web_dev
 data/per-domain-entities/web-dev.txt
-
-## lookup:data_science
-data/per-domain-entities/data-science.txt

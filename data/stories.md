@@ -7,7 +7,7 @@
   - utter_iambob
 
 ## ask knowledge question
-* knowledge_question
+* knowledge_question_web_dev OR knowledge_question_data_science
   - action_answer_question
   - action_ask2rate_answer
 

@@ -5,7 +5,8 @@ intents:
 - greet
 - how_are_you
 - who_are_you
-- knowledge_question
+- knowledge_question_web_dev
+- knowledge_question_data_science
 - exercise_question
 - being_impolite
 entities:
